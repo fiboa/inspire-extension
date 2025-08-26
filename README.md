@@ -1,13 +1,14 @@
 # INSPIRE Extension Specification
 
 - **Title:** INSPIRE
-- **Identifier:** <https://fiboa.github.io/inspire-extension/v0.2.0/schema.yaml>
+- **Identifier:** <https://fiboa.org/inspire-extension/v0.3.0/schema.yaml>
 - **Property Name Prefix:** inspire
 - **Extension Maturity Classification:** Proposal
 - **Owner**: @m-mohr
 
 This document explains the INSPIRE Extension to the
-[Field Boundaries for Agriculture (fiboa) Specification](https://github.com/fiboa/specification).
+[Field Boundaries for Agriculture (fiboa)](https://fiboa.org) and
+[Vecorel](https://vecorel.org) specifications.
 
 It adds support for a property that reflects the INSPIRE ID.
 
@@ -18,11 +19,6 @@ It adds support for a property that reflects the INSPIRE ID.
 - [Changelog](./CHANGELOG.md)
 
 ## Properties
-
-The fields in the table below can be used in these parts of fiboa documents:
-
-- [ ] Collection
-- [x] Feature Properties
 
 | Property Name | Type   | Description |
 | ------------- | ------ | ----------- |
